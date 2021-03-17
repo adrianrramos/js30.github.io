@@ -14,7 +14,7 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 7. [ ] Array Cardio, Day 2
 8. [ ] Fun with HTML5 Canvas
 9. [ ] Dev Tools Domination
-10. [ ]Hold Shift and Check Checkboxes
+10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
 13. [ ] Slide in on Scroll
@@ -26,7 +26,7 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 19. [ ] Webcam Fun
 20. [ ] Speech Detection
 21. [ ] Geolocation
-22. [ 
+22. [ ] Following Along Link Highlighter 
 23. [ ] Speech Synthesis
 24. [ ] Sticky Nav
 25. [ ] Event Capture, Propagation, Bubbling, and Once
